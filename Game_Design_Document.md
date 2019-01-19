@@ -20,7 +20,7 @@ The game will be free roam from a top down perspective with twin stick shooting.
 The value of our app would be for entertainment purposes.
 
 ##  Outline the users typical path through out the app 
-When the player opens up our application they are addressed with the Main Menu and the typical path goes as:
+**When the player opens up our application they are addressed with the Main Menu and the typical path goes as:**
 
 1. Play Now or Options menu
 (The User has the option to search for players or Adjust the in game music/ Sound effects.)

@@ -33,11 +33,11 @@ When the player opens up our application they are addressed with the Main Menu a
  * The User has the option to search for players or Adjust the in game music/ Sound effects.
 
 1. Once the player finds enough players to play with:  
- 1. Player loads into the game.
- 1. Player then proceeds to play through the game.
- 1. When the game is finished with either a win or death result the following occurs:
-   1. They are given a stat sheet for the round they played.
-   1. Option to play again or go to the Main menu.
+1. Player loads into the game.
+1. Player then proceeds to play through the game.
+1. When the game is finished with either a win or death result the following occurs:
+1. They are given a stat sheet for the round they played.
+1. Option to play again or go to the Main menu.
  
 
 

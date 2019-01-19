@@ -8,16 +8,16 @@ We will be creating a mobile battle royale game using the language swift.
 
 The game will be free roam from a top down perspective with twin stick shooting.
 
-# Explain the purpose of your app / game
+#  Explain the purpose of your app / game
 
-#__**Incorporate multiple areas of interest**__
+#  Incorporate multiple areas of interest 
 
-#__**Create mocks for each screen**__
+#  Create mocks for each screen 
 
-#__**Explain the value of the app for the user **__
+#  Explain the value of the app for the user 
 
-#__** Outline the users typical path through out the app **__
+#  Outline the users typical path through out the app 
 
-#__** Discuss a few use cases **__
+#  Discuss a few use cases 
 
-#__** Include a description of the capstone if it’s a companion app **__
+#  Include a description of the capstone if it’s a companion app 

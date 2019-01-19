@@ -2,7 +2,7 @@
 App Game
 
 
-                      # **Project-Swift GDD**
+                                          __**Project-Swift GDD**__
 
 
 ##  Explain the purpose of your app / game

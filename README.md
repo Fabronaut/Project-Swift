@@ -24,9 +24,9 @@ The game will be free roam from a top down perspective with twin stick shooting.
 ##  Create mocks for each screen 
 
 ## Explain the value of the app for the user 
+The value of our app would be for entertainment purposes.
 
 ##  Outline the users typical path through out the app 
 
 ##  Discuss a few use cases 
 
-##  Include a description of the capstone if it’s a companion app 

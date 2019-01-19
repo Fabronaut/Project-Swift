@@ -1,9 +1,4 @@
-# Project-Swift
-App Game
-
-
-                                          __**Project-Swift GDD**__
-
+# Project-Swift Design Document
 
 ##  Explain the purpose of your app / game
 

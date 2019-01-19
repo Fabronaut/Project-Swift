@@ -30,7 +30,7 @@ The value of our app would be for entertainment purposes.
 When the player opens up our application they are addressed with the Main Menu and the typical path goes as:
 
 1. Play Now or Options menu
-The User has the option to search for players or Adjust the in game music/ Sound effects.
+(The User has the option to search for players or Adjust the in game music/ Sound effects.)
 
 1. Once the player finds enough players to play with:  
 1. Player loads into the game.

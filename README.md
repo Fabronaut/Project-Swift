@@ -38,6 +38,7 @@ When the player opens up our application they are addressed with the Main Menu a
 1. When the game is finished with either a win or death result the following occurs:
 1. They are given a stat sheet for the round they played.
 1. Option to play again or go to the Main menu.
+1. The Cycle repeats until the player wants to quit the application
  
 
 

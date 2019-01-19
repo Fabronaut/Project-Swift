@@ -2,14 +2,12 @@
 App Game
 
 
-__**Project-Swift GDD**__
+                      # **Project-Swift GDD**
 
-We will be creating a mobile battle royale game using the language swift.
-
-The game will be free roam from a top down perspective with twin stick shooting.
 
 ##  Explain the purpose of your app / game
 
+The game will be free roam from a top down perspective with twin stick shooting.
 
 ##  Incorporate multiple areas of interest 
 

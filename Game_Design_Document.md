@@ -1,20 +1,20 @@
 # Project-Swift Design Document
 
-##  Explain the purpose of your app / game
+##  Game Concept
 
 The game will be free roam from a top down perspective with twin stick shooting. The player will run into other players that are on the map and can decide how they want to interact with the other players. The last player alive on the map is the winner.
 
-##  Incorporate multiple areas of interest 
+##  Other Areas of Interest 
 
 * Achievements
   * Winning the Round / Winning (x) amount of games.
-  * Double Kill, Triple Kill etc.
+  * 
   
 * Leaderboards
   * Total amount of kills.
   * Total amount of Victories.
 
-##  Create mocks for each screen 
+##  Mocks Screens 
 
 ## Explain the value of the app for the user 
 The value of our app would be for entertainment purposes.

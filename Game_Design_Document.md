@@ -36,4 +36,6 @@ The value of our app would be for entertainment purposes.
 
 
 ##  Discuss a few use cases 
+PLayer clicks new game and is then in loading screen connecting to other players. Player is then dropped in a random location on map. They will then play game upon game finishing due to game over or victory they are then shown a stat page and asked to play again or be brought back to main menu.
+Player goes into options menu and can change various options in game. Player can then press accept and be returned to main menu.
 

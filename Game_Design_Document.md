@@ -2,7 +2,7 @@
 
 ##  Game Concept
 
-The game will be free roam from a top down perspective with twin stick shooting. The player will run into other players that are on the map and can decide how they want to interact with the other players. The last player alive on the map is the winner.
+
 
 ##  Other Areas of Interest 
 

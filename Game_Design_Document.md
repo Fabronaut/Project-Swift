@@ -1,4 +1,4 @@
-# Project-Swift Design Document
+# War Command Design Document
 
 ##  Game Concept
 A turn-based competitive multiplayer squad game inspired by xcom in which 2 players take control of their own squads of up to 8 units and attempt to eliminate the opposing player's team to claim victory.

@@ -17,6 +17,7 @@ A turn-based competitive multiplayer squad game inspired by xcom in which 2 play
 
 ##  Mock Screens 
 ![Image of In-game UI](https://raw.githubusercontent.com/Fabronaut/Project-Swift/master/App_UI_1.png)
+![Image of In-game UI2](https://raw.githubusercontent.com/Fabronaut/Project-Swift/master/App_UI_2.png)
 
 ## Value of the Game/App 
 To create a fun and competitive experience for fans of the turn-based tactical strategy genre that will keep them coming back for more on their free-time.

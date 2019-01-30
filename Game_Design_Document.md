@@ -14,6 +14,8 @@ A turn-based competitive multiplayer squad game inspired by xcom in which 2 play
   * Number of kills.
   * Number of Victories.
   * etc.
+  
+* Push Notifications
 
 ##  Mock Screens 
 ![Image of Menu-Screen](https://raw.githubusercontent.com/Fabronaut/Project-Swift/master/MainMenu.JPG)

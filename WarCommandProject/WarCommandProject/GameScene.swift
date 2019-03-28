@@ -28,11 +28,11 @@ enum Tile: Int {
         var image:String {
             switch self {
             case .Ground:
-                return "Ground"
+                return "Ground1"
             case .Water:
-                return "Water"
+                return "Water1"
             case .Grass:
-                return "Grass"
+                return "Grass1"
                 
             
         }
@@ -52,12 +52,15 @@ class GameScene: SKScene {
     
     //3
     let tiles = [
-        [1, 1, 1, 1, 1, 1],
-        [1 ,0, 0, 0, 0, 1],
-        [1 ,0, 0, 0, 0, 1],
-        [1 ,0, 0, 0, 0, 1],
-        [1 ,0, 0, 0, 0, 1],
-        [1, 1, 1, 1, 1, 1]
+        [2, 2, 2, 0, 1, 1, 1],
+        [2, 2, 2, 0, 1, 1, 1],
+        [2, 2, 2, 0, 1, 1, 1],
+        [0, 0, 0, 0, 1, 1, 1],
+        [1, 1, 1, 1, 1, 1, 1],
+        [1, 1, 1, 0, 0, 0, 0],
+        [1, 1, 1, 0, 2, 2, 2],
+        [1, 1, 1, 0, 2, 2, 2],
+        [1, 1, 1, 0, 2, 2, 2]
     ]
     let tileSize = (width:32, height:32)
     
@@ -76,15 +79,15 @@ class GameScene: SKScene {
         
         let deviceScale = self.size.width/667
         
-        view2D.position = CGPoint(x:-self.size.width*0.45, y:self.size.height*0.17)
+        view2D.position = CGPoint(x:-self.size.width*0.1, y:self.size.height*0.37)
         view2D.xScale = deviceScale
         view2D.yScale = deviceScale
         addChild(view2D)
         
-        viewIso.position = CGPoint(x:self.size.width*0.12, y:self.size.height*0.12)
-        viewIso.xScale = deviceScale
-        viewIso.yScale = deviceScale
-        addChild(viewIso)
+//        viewIso.position = CGPoint(x:self.size.width*0.12, y:self.size.height*0.12)
+//        viewIso.xScale = deviceScale
+//        viewIso.yScale = deviceScale
+//        addChild(viewIso)
         
         placeAllTiles2D()
     }

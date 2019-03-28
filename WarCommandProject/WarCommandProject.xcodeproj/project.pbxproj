@@ -7,22 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B49F94AE224864B5002D8772 /* Assets in Resources */ = {isa = PBXBuildFile; fileRef = B49F94AD224864B5002D8772 /* Assets */; };
-		B4D04DE222487393001E95EA /* Grass.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D04DE122487393001E95EA /* Grass.png */; };
-		B4D04DE42248739D001E95EA /* Ground.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D04DE32248739D001E95EA /* Ground.png */; };
-		B4D04DE6224873AA001E95EA /* Water.png in Resources */ = {isa = PBXBuildFile; fileRef = B4D04DE5224873AA001E95EA /* Water.png */; };
-		B4E5CF44224C50C900943D18 /* Yellow_6.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF43224C50C900943D18 /* Yellow_6.png */; };
-		B4E5CF46224C50DA00943D18 /* Yellow_5.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF45224C50DA00943D18 /* Yellow_5.png */; };
-		B4E5CF48224C50EA00943D18 /* Yellow_4.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF47224C50E900943D18 /* Yellow_4.png */; };
-		B4E5CF4A224C510700943D18 /* Yellow_3.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF49224C510700943D18 /* Yellow_3.png */; };
-		B4E5CF4C224C512A00943D18 /* Yellow_2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF4B224C512A00943D18 /* Yellow_2.png */; };
-		B4E5CF4E224C514500943D18 /* Yellow_1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF4D224C514500943D18 /* Yellow_1.png */; };
-		B4E5CF50224C518600943D18 /* Red_1.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF4F224C518500943D18 /* Red_1.png */; };
-		B4E5CF52224C518E00943D18 /* Red_2.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF51224C518E00943D18 /* Red_2.png */; };
-		B4E5CF54224C519600943D18 /* Red_3.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF53224C519600943D18 /* Red_3.png */; };
-		B4E5CF56224C519F00943D18 /* Red_4.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF55224C519E00943D18 /* Red_4.png */; };
-		B4E5CF58224C51A500943D18 /* Red_5.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF57224C51A500943D18 /* Red_5.png */; };
-		B4E5CF5A224C51AC00943D18 /* Red_6.png in Resources */ = {isa = PBXBuildFile; fileRef = B4E5CF59224C51AC00943D18 /* Red_6.png */; };
 		FAA537262214C08B000B1D19 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA537252214C08B000B1D19 /* AppDelegate.swift */; };
 		FAA5372A2214C08B000B1D19 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = FAA537292214C08B000B1D19 /* Actions.sks */; };
 		FAA5372C2214C08B000B1D19 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA5372B2214C08B000B1D19 /* GameScene.swift */; };
@@ -52,22 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B49F94AD224864B5002D8772 /* Assets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Assets; path = ../../../../Desktop/Assets; sourceTree = "<group>"; };
-		B4D04DE122487393001E95EA /* Grass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Grass.png; sourceTree = "<group>"; };
-		B4D04DE32248739D001E95EA /* Ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ground.png; sourceTree = "<group>"; };
-		B4D04DE5224873AA001E95EA /* Water.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Water.png; sourceTree = "<group>"; };
-		B4E5CF43224C50C900943D18 /* Yellow_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Yellow_6.png; sourceTree = "<group>"; };
-		B4E5CF45224C50DA00943D18 /* Yellow_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Yellow_5.png; sourceTree = "<group>"; };
-		B4E5CF47224C50E900943D18 /* Yellow_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Yellow_4.png; sourceTree = "<group>"; };
-		B4E5CF49224C510700943D18 /* Yellow_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Yellow_3.png; sourceTree = "<group>"; };
-		B4E5CF4B224C512A00943D18 /* Yellow_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Yellow_2.png; sourceTree = "<group>"; };
-		B4E5CF4D224C514500943D18 /* Yellow_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Yellow_1.png; sourceTree = "<group>"; };
-		B4E5CF4F224C518500943D18 /* Red_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Red_1.png; sourceTree = "<group>"; };
-		B4E5CF51224C518E00943D18 /* Red_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Red_2.png; sourceTree = "<group>"; };
-		B4E5CF53224C519600943D18 /* Red_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Red_3.png; sourceTree = "<group>"; };
-		B4E5CF55224C519E00943D18 /* Red_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Red_4.png; sourceTree = "<group>"; };
-		B4E5CF57224C51A500943D18 /* Red_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Red_5.png; sourceTree = "<group>"; };
-		B4E5CF59224C51AC00943D18 /* Red_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Red_6.png; sourceTree = "<group>"; };
 		FAA537222214C08B000B1D19 /* WarCommandProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WarCommandProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAA537252214C08B000B1D19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAA537292214C08B000B1D19 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
@@ -133,28 +101,12 @@
 		FAA537242214C08B000B1D19 /* WarCommandProject */ = {
 			isa = PBXGroup;
 			children = (
-				B49F94AD224864B5002D8772 /* Assets */,
 				FAA537252214C08B000B1D19 /* AppDelegate.swift */,
 				FAA537292214C08B000B1D19 /* Actions.sks */,
 				FAA5372B2214C08B000B1D19 /* GameScene.swift */,
 				FAA5372D2214C08B000B1D19 /* GameViewController.swift */,
 				FAA5372F2214C08B000B1D19 /* Main.storyboard */,
 				FAA537322214C08C000B1D19 /* Assets.xcassets */,
-				B4E5CF59224C51AC00943D18 /* Red_6.png */,
-				B4E5CF57224C51A500943D18 /* Red_5.png */,
-				B4E5CF55224C519E00943D18 /* Red_4.png */,
-				B4E5CF53224C519600943D18 /* Red_3.png */,
-				B4E5CF51224C518E00943D18 /* Red_2.png */,
-				B4E5CF4F224C518500943D18 /* Red_1.png */,
-				B4E5CF4D224C514500943D18 /* Yellow_1.png */,
-				B4E5CF4B224C512A00943D18 /* Yellow_2.png */,
-				B4E5CF49224C510700943D18 /* Yellow_3.png */,
-				B4E5CF47224C50E900943D18 /* Yellow_4.png */,
-				B4E5CF45224C50DA00943D18 /* Yellow_5.png */,
-				B4E5CF43224C50C900943D18 /* Yellow_6.png */,
-				B4D04DE5224873AA001E95EA /* Water.png */,
-				B4D04DE32248739D001E95EA /* Ground.png */,
-				B4D04DE122487393001E95EA /* Grass.png */,
 				FAA537342214C08C000B1D19 /* LaunchScreen.storyboard */,
 				FAA537372214C08C000B1D19 /* Info.plist */,
 			);
@@ -284,25 +236,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAA537312214C08B000B1D19 /* Main.storyboard in Resources */,
-				B4E5CF4E224C514500943D18 /* Yellow_1.png in Resources */,
-				B4E5CF50224C518600943D18 /* Red_1.png in Resources */,
-				B49F94AE224864B5002D8772 /* Assets in Resources */,
-				B4E5CF44224C50C900943D18 /* Yellow_6.png in Resources */,
 				FAA537332214C08C000B1D19 /* Assets.xcassets in Resources */,
-				B4E5CF54224C519600943D18 /* Red_3.png in Resources */,
 				FAA537362214C08C000B1D19 /* LaunchScreen.storyboard in Resources */,
-				B4E5CF56224C519F00943D18 /* Red_4.png in Resources */,
-				B4E5CF4A224C510700943D18 /* Yellow_3.png in Resources */,
-				B4E5CF52224C518E00943D18 /* Red_2.png in Resources */,
-				B4D04DE222487393001E95EA /* Grass.png in Resources */,
-				B4E5CF5A224C51AC00943D18 /* Red_6.png in Resources */,
 				FAA5372A2214C08B000B1D19 /* Actions.sks in Resources */,
-				B4D04DE42248739D001E95EA /* Ground.png in Resources */,
-				B4D04DE6224873AA001E95EA /* Water.png in Resources */,
-				B4E5CF58224C51A500943D18 /* Red_5.png in Resources */,
-				B4E5CF46224C50DA00943D18 /* Yellow_5.png in Resources */,
-				B4E5CF48224C50EA00943D18 /* Yellow_4.png in Resources */,
-				B4E5CF4C224C512A00943D18 /* Yellow_2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

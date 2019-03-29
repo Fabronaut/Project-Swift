@@ -20,6 +20,16 @@ class GameViewController: UIViewController {
         skView.showsNodeCount = true
         scene.scaleMode = .resizeFill
         skView.presentScene(scene)
+
+        //get main screen bounds
+        let screenSize: CGRect = UIScreen.main.bounds
+        let screenWidth = screenSize.width
+        let screenHeight = screenSize.height
+        
+        
+        print ("Screen Width = \(screenWidth), screen Height = \(screenHeight)")
+        
+        
         
     }
 

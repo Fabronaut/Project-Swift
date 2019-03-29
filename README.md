@@ -14,7 +14,7 @@ A 2D turn-based tactical squad game inspired by battleship in which the player t
 * Push Notifications
 
 ##  Mock Screens 
-![Image of Menu-Screen](https://raw.githubusercontent.com/Fabronaut/Project-Swift/master/MenuWC_1.png)
+![Image of Menu-Screen](https://raw.githubusercontent.com/Fabronaut/Project-Swift/master/MenuWCC_1.png)
 ![Image of Menu-Screen2](https://raw.githubusercontent.com/Fabronaut/Project-Swift/master/MenuWC_2.png)
 ![Image of In-game UI](https://raw.githubusercontent.com/Fabronaut/Project-Swift/master/MenuWC_3.png)
 ![Image of In-game UI2](https://raw.githubusercontent.com/Fabronaut/Project-Swift/master/MenuWC_4.png)

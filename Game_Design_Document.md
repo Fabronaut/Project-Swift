@@ -31,10 +31,10 @@ To create a quick, fun and challenging experience for fans of the turn-based tac
 1. Player loads into level 1
 1. Player competes againt the enemy AI with the aim of eliminating the entire squad to be victorious.
 1. When the game is finished with either a win or loss result the following occurs:
-   1.Win:
+   1.1 Win:
         1.Congratulations Notification
         1."Continue to next level" or "Exit to main menu"
-   1.Loss:
+   1.2 Loss:
         1.Level failed Notification
         1."Retry" or "Exit to main menu"
         
